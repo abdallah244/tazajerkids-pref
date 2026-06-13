@@ -82,9 +82,11 @@ graph TD
 
 ---
 
-## 🔗 تفاصيل إضافية وشرح مفصل
-لمراجعة المواصفات الدقيقة والشرح المفصل لكل خيار وميزة في المشروع، يرجى الانتقال إلى:
-* 📖 [ملف التفاصيل الشاملة DETAILS.md](file:///c:/Users/hp/Downloads/tazaker%20kids%20ubdate/DETAILS.md)
+## 🔗 ملفات التوثيق الإضافية (Documentation Files)
+لمراجعة تفاصيل المشروع البرمجية والتجارية بالكامل، يرجى الانتقال إلى:
+* 📖 [دليل التفاصيل الشاملة DETAILS.md](file:///c:/Users/hp/Downloads/tazaker%20kids%20ubdate/DETAILS.md) — شرح مفصل لكل خيار وميزة.
+* 🏗️ [دليل بنية النظام البرمجية ARCHITECTURE.md](file:///c:/Users/hp/Downloads/tazaker%20kids%20ubdate/ARCHITECTURE.md) — مخططات وتدفق البيانات.
+* 💰 [عرض الأسعار والتسعير المقارن PRICING.md](file:///c:/Users/hp/Downloads/tazaker%20kids%20ubdate/PRICING.md) — تفاصيل حزم الأسعار المقترحة.
 
 ---
 
