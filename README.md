@@ -82,6 +82,12 @@ graph TD
 
 ---
 
+## 🔗 تفاصيل إضافية وشرح مفصل
+لمراجعة المواصفات الدقيقة والشرح المفصل لكل خيار وميزة في المشروع، يرجى الانتقال إلى:
+* 📖 [ملف التفاصيل الشاملة DETAILS.md](file:///c:/Users/hp/Downloads/tazaker%20kids%20ubdate/DETAILS.md)
+
+---
+
 <p align="center">
   <b>جميع الحقوق محفوظة © 2026 abdallah hany</b>
 </p>
